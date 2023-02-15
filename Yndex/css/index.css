@@ -1,0 +1,7 @@
+.card:hover {
+    outline: 4px solid #a009db;
+}
+
+a {
+    color: gray;
+}

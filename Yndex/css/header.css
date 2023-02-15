@@ -1,0 +1,40 @@
+input[type="search"] {
+    border: none;
+}
+
+.logo-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: gray;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: rgb(211, 12, 218);
+}
+
+.nav-link:active {
+    color: rgb(123, 42, 126);
+}
+
+.nav {
+    gap: 10px;
+}
+
+.plus-badge {
+   font-size: 10px; 
+   padding: 5px 10px;
+   background: rgb(209,92,203);
+   background: linear-gradient(313deg, rgba(209,92,203,1) 0%, rgb(51, 24, 202) 49%, rgba(255,0,239,1) 100%);
+}
+
+.dropdown-item:hover {
+    color: rgb(211, 12, 218);
+}
+
+.rounded-circle {
+    border: 3px solid rgba(209,92,203,1);
+    padding: 2px;
+}
